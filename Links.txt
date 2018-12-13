@@ -1,0 +1,4 @@
+http://alljs.ru/articles/array/iteration
+http://www.wisdomweb.ru/JS/forlp.php
+http://www.puzzleweb.ru/javascript/11_loops.php
+http://habrahabr.ru/post/121803/
